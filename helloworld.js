@@ -1,7 +1,10 @@
 <script>
 alert("Hello, World");
 //comments
-/* co
+/* 
+multi
+line
+co
 mm
 en
 ts*/
